@@ -1,0 +1,240 @@
+.html, body{
+    height: 100%;
+    width: 100%;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    margin-left: 0%;
+    margin-right: 0%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: rgb(43, 40, 40);
+    display: flex;
+    justify-content: center;
+}
+
+.tlokalkulatora{
+    display: flex;
+    position: absolute;
+    height: 50%;
+    width: 17%;
+    background-color: aqua;
+}
+
+.polewyniku{
+    position: absolute;
+    height: 20%;
+    width: 100%;
+    background-color: red;
+}
+
+.poleprzyciskow{
+    display: flex;
+    position: absolute;
+    height: 326px;
+    width: 326px;
+    margin-bottom: 30px;
+    background-color: azure;
+    align-self: flex-end;
+    align-content: space-between;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.przycisk9{
+    position: static;
+    height: 75px;
+    width: 75px;
+    border-radius: 50%;
+    background-color: grey;
+    border: 0px;
+}
+
+.przycisk9:hover{
+    background-color: rgb(119, 118, 118);
+}
+
+.przycisk8{
+    position: static;
+    height: 75px;
+    width: 75px;
+    border-radius: 50%;
+    background-color: grey;
+    border: 0px;
+}
+
+.przycisk8:hover{
+    background-color: rgb(119, 118, 118);
+}
+
+.przycisk7{
+    position: static;
+    height: 75px;
+    width: 75px;
+    border-radius: 50%;
+    background-color: grey;
+    border: 0px;
+}
+
+.przycisk7:hover{
+    background-color: rgb(119, 118, 118);
+}
+
+.przyciskdod{
+    position: static;
+    height: 75px;
+    width: 75px;
+    border-radius: 50%;
+    background-color: orange;
+    border: 0px;
+}
+
+.przyciskdod:hover{
+    background-color: rgb(235, 161, 24);
+}
+
+.przycisk6{
+    position: static;
+    height: 75px;
+    width: 75px;
+    border-radius: 50%;
+    background-color: grey;
+    border: 0px;
+}
+
+.przycisk6:hover{
+    background-color: rgb(119, 118, 118);
+}
+
+.przycisk5{
+    position: static;
+    height: 75px;
+    width: 75px;
+    border-radius: 50%;
+    background-color: grey;
+    border: 0px;
+}
+
+.przycisk5:hover{
+    background-color: rgb(119, 118, 118);
+}
+
+.przycisk4{
+    position: static;
+    height: 75px;
+    width: 75px;
+    border-radius: 50%;
+    background-color: grey;
+    border: 0px;
+}
+
+.przycisk4:hover{
+    background-color: rgb(119, 118, 118);
+}
+
+.przyciskod{
+    position: static;
+    height: 75px;
+    width: 75px;
+    border-radius: 50%;
+    background-color: orange;
+    border: 0px;
+}
+
+.przyciskod:hover{
+    background-color: rgb(235, 161, 24);
+}
+
+.przycisk3{
+    position: static;
+    height: 75px;
+    width: 75px;
+    border-radius: 50%;
+    background-color: grey;
+    border: 0px;
+}
+
+.przycisk3:hover{
+    background-color: rgb(119, 118, 118);
+}
+
+.przycisk2{
+    position: static;
+    height: 75px;
+    width: 75px;
+    border-radius: 50%;
+    background-color: grey;
+    border: 0px;
+}
+
+.przycisk2:hover{
+    background-color: rgb(119, 118, 118);
+}
+
+.przycisk1{
+    position: static;
+    height: 75px;
+    width: 75px;
+    border-radius: 50%;
+    background-color: grey;
+    border: 0px;
+}
+
+.przycisk1:hover{
+    background-color: rgb(119, 118, 118);
+}
+
+.przyciskmn{
+    position: static;
+    height: 75px;
+    width: 75px;
+    border-radius: 50%;
+    background-color: orange;
+    border: 0px;
+}
+
+.przyciskmn:hover{
+    background-color: rgb(235, 161, 24);
+}
+
+.przycisk0{
+    position: static;
+    height: 75px;
+    width: 150px;
+    border-radius: 40px;
+    background-color: grey;
+    border: 0px;
+}
+
+.przycisk0:hover{
+    background-color: rgb(119, 118, 118);
+}
+
+.przyciskkropka{
+    position: static;
+    height: 75px;
+    width: 75px;
+    border-radius: 50%;
+    background-color: orange;
+    border: 0px;
+}
+
+.przyciskkropka:hover{
+    background-color: rgb(235, 161, 24);
+}
+
+.przyciskdziel{
+    position: static;
+    height: 75px;
+    width: 75px;
+    border-radius: 50%;
+    background-color: orange;
+    border: 0px;
+}
+
+.przyciskdziel:hover{
+    background-color: rgb(235, 161, 24);
+}
+
+.txp{
+    -webkit-text-fill-color: white;
+    font-size: larger;
+}
