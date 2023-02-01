@@ -1,0 +1,13 @@
+tablica=["Volvo","Ford","BMW"]
+print(tablica)
+tablica.append("Audi")
+print(tablica)
+tablica.sort()
+print(tablica)
+tablica.pop()
+print(tablica)
+print(tablica.__len__())
+tablica.remove(tablica[2])
+print(tablica)
+tablica.sort(reverse=True)
+print(tablica)
