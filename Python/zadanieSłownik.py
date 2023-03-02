@@ -1,1 +1,0 @@
-# słowa z programowania w słowniku, użyt wpisując numer wyswietla wybrany element
